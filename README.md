@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keshav</h1>
 <h3 align="center">A self-motivated developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavmittal4&label=Profile%20views&color=0e75b6&style=flat" alt="keshavmittal4" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshavmittal4" alt="keshavmittal4" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/keshavmittal4](https://github.com/keshavmittal4)
 
