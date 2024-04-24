@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshavmittal4" alt="keshavmittal4" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Website**
-
-- 🌱 I’m currently learning **Full Stack Technologies**
-
 - 👨‍💻 All of my projects are available at [https://github.com/keshavmittal4](https://github.com/keshavmittal4)
 
 <h3 align="left">Connect with me:</h3>
