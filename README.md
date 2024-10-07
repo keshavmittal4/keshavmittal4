@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Keshav</h1>
-<h3 align="center">A self-motivated developer</h3>
+<h1 align="center">Hi 👋, I'm Keshav Mittal</h1>
+<h3 align="center">Software developer</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/keshavmittal4](https://github.com/keshavmittal4)
