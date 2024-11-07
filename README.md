@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/keshav mittal](https://www.linkedin.com/in/keshav-mittal-4a6007201/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav mittal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/keshav-mittal-4a6007201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav mittal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/keshav mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keshav mittal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/keshav mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshav mittal" height="30" width="40" /></a>
 </p>
